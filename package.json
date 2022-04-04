@@ -1,5 +1,13 @@
 {
   "author": "Gary Smith",
+  "description": "A project to sharpen my backend skills.",
+  "keywords": [
+    "freecodecamp",
+    "backend",
+    "descriptive"
+  ],
+  "license": "MIT",
+  "version": "1.0",
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
